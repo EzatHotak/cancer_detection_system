@@ -1,7 +1,5 @@
-# 🏥 AI-Powered Cancer Detection System
+#  AI-Powered Cancer Detection System
 
-![Project Banner](https://i.imgur.com/JZwYF3U.png)  
-*Visualizing the power of AI in medical diagnostics*
 
 ## 🔍 Overview
 
