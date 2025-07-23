@@ -1,7 +1,7 @@
 #  AI-Powered Cancer Detection System
 
 
-## 🔍 Overview
+##  Overview
 
 This repository contains an end-to-end deep learning system for detecting cancerous tumors using medical imaging data. Built with TensorFlow, this project demonstrates how machine learning can assist in early cancer diagnosis with **over 96% accuracy**.
 
@@ -10,7 +10,7 @@ As a professional machine learning engineer, I developed this system to showcase
 - Ability to deliver **production-ready solutions**
 - Comprehensive **data science workflow** from raw data to deployable model
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Benefit |
 |---------|---------|
@@ -26,9 +26,4 @@ As a professional machine learning engineer, I developed this system to showcase
 git clone https://github.com/yourusername/cancer-detection-system.git
 cd cancer-detection-system
 
-graph TD
-    A[Raw Medical Data] --> B[Data Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[Neural Network Model]
-    D --> E[Prediction]
-    E --> F[Clinical Decision Support]
+
